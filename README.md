@@ -1,69 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Jorge%20Emilio%20Inlago%20Fonseca&fontSize=36&animation=twinkling&fontAlignY=35&desc=MSc.%20Ciberseguridad%20%E2%80%A2%20Ing.%20Mecatr%C3%B3nico%20%E2%80%A2%20Normativas%20y%20Regulaciones&descAlignY=55&color=gradient&customColorList=0:0ea5e9,1:14b8a6,2:22c55e&fontColor=ffffff" alt="banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=900&color=0EA5E9&lines=Gobierno+de+la+Ciberseguridad+%7C+Gesti%C3%B3n+de+Riesgos+%7C+Auditor%C3%ADa;Forense+%7C+Hacking+%C3%89tico+%7C+Full%E2%80%91Stack+Seguro;Node.js+%7C+React+%7C+Docker+%7C+Linux" alt="typing"/>
 </p>
 
 ## 👋 Sobre mí
 
-Ingeniero en mecatrónica 🇪🇨 y máster en **Ciberseguridad** (en curso). Me enfoco en **desarrollo full‑stack seguro**, **DevSecOps**, gobierno y gestión de riesgos. Busco impacto real con código claro y seguridad desde el diseño.
+MSc. Ciberseguridad | Ingeniero Mecatrónico | Normativas | Regulaciones | Análisis de malware | Gestión de riesgos | Gobierno de la ciberseguridad | Auditoria | Forense | Hacking ético
 
 ## 🧰 Stack principal
 
+**Lenguajes**
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Terminal-1F2937?logo=gnometerminal&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-111827?logo=python&logoColor=3776AB"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-111827?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind-111827?logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Vite-111827?logo=vite&logoColor=646CFF"/>
+  <img src="https://img.shields.io/badge/HTML5-111827?logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111827?logo=css3&logoColor=1572B6"/>
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-111827?logo=express&logoColor=FFFFFF"/>
+</p>
+
+**Bases de datos**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111827?logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MariaDB-111827?logo=mariadb&logoColor=FFFFFF"/>
+</p>
+
+**DevOps / Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-111827?logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Nginx-111827?logo=nginx&logoColor=009639"/>
+  <img src="https://img.shields.io/badge/Linux-111827?logo=linux&logoColor=FFFFFF"/>
 </p>
 
 ## 🛡️ Security toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/nmap-4B5563"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-2D3748"/>
-  <img src="https://img.shields.io/badge/Metasploit-2563EB"/>
-  <img src="https://img.shields.io/badge/Nessus-00A0DC"/>
-  <img src="https://img.shields.io/badge/OpenVAS-2F855A"/>
-  <img src="https://img.shields.io/badge/Autopsy-111827"/>
-  <img src="https://img.shields.io/badge/IDA%20Pro-0F766E"/>
+  <img src="https://img.shields.io/badge/nmap-0B1220"/>
+  <img src="https://img.shields.io/badge/Wireshark-0B1220?logo=wireshark&logoColor=1679A7"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-0B1220"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-0B1220"/>
+  <img src="https://img.shields.io/badge/Metasploit-0B1220"/>
+  <img src="https://img.shields.io/badge/Nessus-0B1220"/>
+  <img src="https://img.shields.io/badge/OpenVAS-0B1220"/>
+  <img src="https://img.shields.io/badge/Autopsy-0B1220"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-0B1220"/>
 </p>
 
 ## 📚 Marcos y normas
 
 <p>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-0F172A"/>
-  <img src="https://img.shields.io/badge/NIST%20CSF%20%7C%20800--53-1E293B"/>
-  <img src="https://img.shields.io/badge/ISO%2031000%20(riesgo)-334155"/>
-  <img src="https://img.shields.io/badge/RGPD%20(GDPR)-111827"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC_27001-0F172A"/>
+  <img src="https://img.shields.io/badge/NIST_CSF_%7C_800--53-1E293B"/>
+  <img src="https://img.shields.io/badge/ISO_31000-334155"/>
+  <img src="https://img.shields.io/badge/RGPD_(GDPR)-111827"/>
   <img src="https://img.shields.io/badge/MAGERIT-0B7285"/>
-</p>
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIO1011&show_icons=true&theme=react&hide_border=true" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JIO1011&theme=react&hide_border=true" alt="streak"/>
 </p>
 
 ## 📫 Contacto
@@ -73,9 +78,6 @@ Ingeniero en mecatrónica 🇪🇨 y máster en **Ciberseguridad** (en curso). M
   <a href="https://www.linkedin.com/in/jorge-inlago-fonseca-a57006a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:0ea5e9,1:14b8a6,2:22c55e"/>
-</p>
 
 
 
