@@ -9,7 +9,7 @@ Me especializo en el puente entre el mundo físico y el digital.
 
 - 🛡️ **Enfoque:** Seguridad por diseño (Security by Design) y Hardening de infraestructura.
 - ⚙️ **Background:** Visión sistémica del hardware y software.
-- 🔭 **Actualidad:** Optimizando arquitecturas escalables.
+- 🔭 **Actualidad:** Optimizando arquitecturas escalables con Supabase y Cloudflare.
 
 ---
 
@@ -17,6 +17,7 @@ Me especializo en el puente entre el mundo físico y el digital.
 
 ### 💻 Frontend & Backend
 <p>
+  <img src="https://img.shields.io/badge/Python-111827?logo=python&style=flat-square" />
   <img src="https://img.shields.io/badge/React-111827?logo=react&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-111827?logo=typescript&style=flat-square" />
   <img src="https://img.shields.io/badge/Vite-111827?logo=vite&style=flat-square" />
@@ -38,12 +39,24 @@ Me especializo en el puente entre el mundo físico y el digital.
 
 ## 🛡️ Security Expertise
 
-### **Operational Security**
-> Nmap | Wireshark | Burp Suite | Metasploit | Nessus | Autopsy | IDA Pro
+### **Operational Security & Pentesting**
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-111827?logo=wireshark&style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-111827?logo=metasploit&style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-111827?logo=burpsuite&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-111827?logo=google-cloud&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nessus-111827?logo=target&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali_Linux-111827?logo=kali-linux&style=flat-square" />
+</p>
 
 ### **Governance & Compliance**
-- **Frameworks:** ISO/IEC 27001, NIST CSF (800-53), ISO 31000.
-- **Legal:** RGPD (GDPR) & Metodología MAGERIT.
+<p>
+  <img src="https://img.shields.io/badge/ISO_27001-0E7490?logo=checkmarx&style=flat-square" />
+  <img src="https://img.shields.io/badge/NIST_CSF-0E7490?logo=shield&style=flat-square" />
+  <img src="https://img.shields.io/badge/GDPR-0E7490?logo=privacy&style=flat-square" />
+  <img src="https://img.shields.io/badge/MAGERIT-0E7490?logo=opsgenie&style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk_Management-0E7490?logo=risk&style=flat-square" />
+</p>
 
 ---
 
