@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&vCenter=true&width=900&color=0EA5E9&lines=MSc.+Cybersecurity+%7C+Mechatronics+Engineer;Securing+Code+%7C+Hardening+Systems+%7C+Building+Future;Full-Stack+Security+Developer" alt="typing"/>
 </p>
 
-# 👋 Hola, soy Jorge Inlago
+# 👋 Hola, soy JIO
 
 ### **MSc. Ciberseguridad & Ingeniero Mecatrónico**
-Me especializo en el puente entre el mundo físico y el digital. Mi enfoque es construir aplicaciones **Full-Stack Seguras** desde el diseño, integrando gobernanza, gestión de riesgos y auditoría técnica.
+Me especializo en el puente entre el mundo físico y el digital.
 
 - 🛡️ **Enfoque:** Seguridad por diseño (Security by Design) y Hardening de infraestructura.
-- ⚙️ **Background:** Ingeniería Mecatrónica, lo que me da una visión sistémica del hardware y software.
-- 🔭 **Actualidad:** Optimizando arquitecturas escalables con Supabase y Cloudflare.
+- ⚙️ **Background:** Visión sistémica del hardware y software.
+- 🔭 **Actualidad:** Optimizando arquitecturas escalables.
 
 ---
 
