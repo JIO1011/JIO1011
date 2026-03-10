@@ -5,25 +5,32 @@
 # 👋 Hola, soy JIO
 
 ### **MSc. Ciberseguridad & Ingeniero Mecatrónico**
-Me especializo en el puente entre el mundo físico y el digital.
+Especialista en seguridad integral, desde la infraestructura física hasta el despliegue de software seguro. 
 
-- 🛡️ **Enfoque:** Seguridad por diseño (Security by Design) y Hardening de infraestructura.
-- ⚙️ **Background:** Visión sistémica del hardware y software.
+- 🛡️ **Enfoque:** Seguridad por diseño (Security by Design) y Hardening de sistemas críticos.
+- ⚙️ **Background:** Visión sistémica del hardware y software (IoT & Industrial Security).
 - 🔭 **Actualidad:** Optimizando arquitecturas escalables con Supabase y Cloudflare.
+
+---
+
+## 🏆 Certificaciones
+<p>
+  <img src="https://img.shields.io/badge/ISO_27001_Certified-F59E0B?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend & Backend
+### 💻 Development & Logic
 <p>
   <img src="https://img.shields.io/badge/Python-111827?logo=python&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-111827?logo=react&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-111827?logo=typescript&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vite-111827?logo=vite&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-111827?logo=react&style=flat-square" />
   <img src="https://img.shields.io/badge/Node.js-111827?logo=node.js&style=flat-square" />
   <img src="https://img.shields.io/badge/Supabase-111827?logo=supabase&style=flat-square" />
-  <img src="https://img.shields.io/badge/Tailwind-111827?logo=tailwindcss&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vite-111827?logo=vite&style=flat-square" />
 </p>
 
 ### 🗄️ Database & DevOps
@@ -45,13 +52,11 @@ Me especializo en el puente entre el mundo físico y el digital.
   <img src="https://img.shields.io/badge/Metasploit-111827?logo=metasploit&style=flat-square" />
   <img src="https://img.shields.io/badge/Burp_Suite-111827?logo=burpsuite&style=flat-square" />
   <img src="https://img.shields.io/badge/Nmap-111827?logo=google-cloud&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Nessus-111827?logo=target&style=flat-square" />
   <img src="https://img.shields.io/badge/Kali_Linux-111827?logo=kali-linux&style=flat-square" />
 </p>
 
 ### **Governance & Compliance**
 <p>
-  <img src="https://img.shields.io/badge/ISO_27001-0E7490?logo=checkmarx&style=flat-square" />
   <img src="https://img.shields.io/badge/NIST_CSF-0E7490?logo=shield&style=flat-square" />
   <img src="https://img.shields.io/badge/GDPR-0E7490?logo=privacy&style=flat-square" />
   <img src="https://img.shields.io/badge/MAGERIT-0E7490?logo=opsgenie&style=flat-square" />
@@ -59,12 +64,6 @@ Me especializo en el puente entre el mundo físico y el digital.
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ## 📫 Contacto
 <p>
